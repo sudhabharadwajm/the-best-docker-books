@@ -15,8 +15,6 @@ Looking for a good read? Explore the books listed below and pick up one of these
 
 * Docker Containers - Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic [[Read]](/books/Docker%20Containers%20-%20Build%20and%20Deploy%20with%20Kubernetes%2C%20Flannel%2C%20Cockpit%2C%20and%20Atomic.pdf)
 
-* Docker%20Cookbook%20-%20Solutions%20and%20Examples%20for%20Building%20Distributed%20Applications.pdf [[Read]](/books/Docker%20Cookbook%20-%20Solutions%20and%20Examples%20for%20Building%20Distributed%20Applications.pdf)
-
 * Docker Cookbook - Solutions and Examples for Building Distributed Applications [[Read]](/books/Docker%20Cookbook%20-%20Solutions%20and%20Examples%20for%20Building%20Distributed%20Applications.pdf)
 
 * Docker Management Design Patterns - Swarm Mode on Amazon Web Services [[Read]](/books/Docker%20Management%20Design%20Patterns%20-%20Swarm%20Mode%20on%20Amazon%20Web%20Services.pdf)
