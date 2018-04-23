@@ -53,6 +53,8 @@ Looking for a good read? Explore the books listed below and pick up one of these
 
 * Using Docker [[Read]](/books/Using%20Docker.pdf)
 
+* Containerized Docker Application Lifecycle with Microsoft Platform and Tools [[Read]](/books/Containerized%20Docker%20Application%20Lifecycle%20with%20Microsoft%20Platform%20and%20Tools.pdf)
+
 ### Contributing
 
 We'd love to have your helping hand on contributions to this project by forking and sending a pull request!
