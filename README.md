@@ -1,6 +1,5 @@
 # The Best Docker Books
 
-
 Welcome to Docker eBooks collections! Enjoy learning, feel free to share with your friends!
 
 Let star this project to keep tracking and be easy to find the project again later! Thanks!
